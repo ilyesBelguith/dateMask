@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+.ui-datepicker-today{
+    background-color: rgb(190, 190, 190);
+    border-radius: 15%;
+}
+a.ui-state-default:hover {
+    background-color: #dddada;
+    border-radius: 15%;
+}
+a.ui-state-active{
+    background-color: #f16e00;
+    border-radius: 15%;
+}
+
+.ui-datepicker .ui-datepicker-header {
+    padding: 1.1em 0 !important;
+}
